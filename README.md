@@ -1,2 +1,2 @@
-# Snake
-Snake game in java
+# Snake Game
+Gioco snake completamente sviluppato in java
